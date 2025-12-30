@@ -1,5 +1,5 @@
 :root {
-  --main-color: #ffffff;
+  --main-color: #303965;
   --secondary-color: #000000;
 }
 
@@ -13,8 +13,7 @@ html {
 }
 
 body {
-  background-image: url('../image/background_laptop.png');
-  background-size: cover;
+   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
@@ -22,13 +21,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'DroidKufi';
-  background-color: #000000;
+  background-color: #303966;
 }
 
 @media (max-width: 768px) {
   body {
-    background-image: url('../image/background_phone.png');
-  }
+   }
 }
 
 .container {

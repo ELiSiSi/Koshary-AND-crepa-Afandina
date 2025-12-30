@@ -13,8 +13,7 @@ html {
 }
 
 body {
-  background-image: url('../image/background_laptop.png');
-  background-size: cover;
+   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
@@ -22,7 +21,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'DroidKufi';
-  background-color: #000000;
+  background-color: #303966;
 }
 
 @media (max-width: 768px) {
@@ -127,7 +126,7 @@ body {
   margin-top: 50px;
   display: grid;
 
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(800px, 1fr));
 
   gap: 0px;
 }
