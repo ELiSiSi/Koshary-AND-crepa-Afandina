@@ -21,7 +21,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'DroidKufi';
-  background-color: #303966;
+  background-color: #a30000;
 }
 
 @media (max-width: 768px) {
@@ -49,7 +49,7 @@ body {
 }
 
 .header img {
-  width: 110px;
+  width: 90px;
   margin: 0px;
   padding: 0px;
 
@@ -72,7 +72,7 @@ body {
 }
 
 .header .container .name {
-  color:#000;
+  color:#db0000;
 }
 
 @media (max-width: 768px) {
@@ -84,7 +84,7 @@ body {
   }
 
   .header img {
-    width: 40px;
+    width: 30px;
   }
 
   .header .container .name {

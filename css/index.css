@@ -1,5 +1,5 @@
 :root {
-  --main-color: #303965;
+  --main-color: #cf0000;
   --secondary-color: #000000;
 }
 
@@ -21,7 +21,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'DroidKufi';
-  background-color: #303966;
+  background-color: #a30000;
 }
 
 @media (max-width: 768px) {
@@ -43,8 +43,7 @@ body {
    display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 80px;
-}
+ }
 
 .header .container {
   display: flex;
@@ -53,7 +52,7 @@ body {
 }
 
 .header img {
-  width: 100px;
+  width: 90px;
   margin: 0px;
   padding: 0px;
   animation-name: thebest;
@@ -81,7 +80,7 @@ body {
 }
 
 .header .container .name span {
-  color: #000;
+  color: #e40000;
     padding: 0;
   margin: 0;
 }
@@ -93,7 +92,7 @@ body {
   }
 
   .header img {
-    width: 50px;
+    width: 40px;
 
   }
 
@@ -119,8 +118,7 @@ body {
 
   width: 100%;
   font-weight: 900;
-  color: #ffffff;
-}
+ }
 
 .profile .image img {
   width: 200px;
@@ -134,7 +132,7 @@ body {
   font-size: 25px;
   line-height: 0.1;
   font-weight: 900;
-  color: #ffffff;
+  color: #D4B06B;
 }
 @media (max-width: 500px) {
   .profile .text p {
@@ -166,7 +164,7 @@ body {
 
 .profile .icon i {
   font-size: 30px;
-  color: #ffffff;
+  color: #efc476;
 }
 @media (max-width: 500px) {
   body {
@@ -201,8 +199,8 @@ body {
 .contant a {
   width: 100%;
   font-size: 20px;
-  font-weight: 600;
-  color: #000000;
+  font-weight: 800;
+  color: #a30000;
   text-decoration: none;
 }
 
@@ -218,7 +216,7 @@ body {
   align-items: center;
   border: #000000 2px solid;
   border-radius: 100px;
-  background-color: #ffffff;
+  background-color: #D4B06B;
 }
 
 .contant .col:hover span {
